@@ -1,7 +1,7 @@
 It's more like a small time-pass Memory Based Gaming Project that requires a single, or a couple of participants only, to play & win.
 
 ### Coded using : 
-HTML, CSS and JavaScript onlt
+HTML, CSS and JavaScript only
 
 
 # Game
