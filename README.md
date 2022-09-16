@@ -1,8 +1,7 @@
-Assignment made for class 420-423-DW Internet Applications II (JavaScript), taught by Laurent Ruhlmann at Dawson College, in Winter 2019. <br/>
+It's more like a small time-pass Memory Based Gaming Project that requires a single, or a couple of participants only, to play & win.
 
-
-### Coded in
-* Javascript (no JQuery), HTML and homemade CSS
+### Coded using : 
+HTML, CSS and JavaScript onlt
 
 
 # Game
